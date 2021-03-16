@@ -11,7 +11,7 @@ import (
 	"google.golang.org/grpc/credentials"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"
 
-	"github.com/tarndt/wasmws"
+	"github.com/gbl08ma/wasmws"
 )
 
 func main() {
